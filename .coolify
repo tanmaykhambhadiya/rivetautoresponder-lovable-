@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "applicationName": "rivetautoresponder",
+    "buildCommand": "bun install && bun run build",
+    "startCommand": "serve -s dist -l 3000",
+    "baseDirectory": "/",
+    "publishDirectory": "dist",
+    "port": 3000,
+    "environment": "production"
+  }
+}
