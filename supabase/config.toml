@@ -1,0 +1,37 @@
+project_id = "ajaegyvfielffgajuodc"
+
+[functions.store-outlook-secret]
+verify_jwt = false
+
+[functions.test-outlook-connection]
+verify_jwt = false
+
+[functions.outlook-sync-emails]
+verify_jwt = false
+
+[functions.outlook-send-email]
+verify_jwt = false
+
+[functions.outlook-oauth-callback]
+verify_jwt = false
+
+[functions.store-gmail-secret]
+verify_jwt = false
+
+[functions.test-gmail-connection]
+verify_jwt = false
+
+[functions.gmail-sync-emails]
+verify_jwt = false
+
+[functions.gmail-send-email]
+verify_jwt = false
+
+[functions.gmail-oauth-callback]
+verify_jwt = false
+
+[functions.process-emails]
+verify_jwt = false
+
+[functions.test-ai-response]
+verify_jwt = false
