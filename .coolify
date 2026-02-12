@@ -6,6 +6,8 @@
     "baseDirectory": "/",
     "publishDirectory": "dist",
     "port": 3000,
-    "environment": "production"
+    "environment": "production",
+    "buildType": "docker",
+    "dockerfile": "Dockerfile"
   }
 }
